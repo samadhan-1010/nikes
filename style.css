@@ -29,7 +29,6 @@ header{
 }
 header:hover{
     border-radius: 5px;
-    border: 2px solid #ff0052;;
 }
 .nav_button:hover{
     box-shadow: 5px 5px 0px #fff;
